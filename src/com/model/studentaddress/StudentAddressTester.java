@@ -13,7 +13,6 @@ public class StudentAddressTester {
 		System.out.println("City Name: "+s1.addr.cityName);
 		System.out.println("Area Name: "+s1.addr.areaName);
 		
-		//changed code starts from here..
 	}
 
 }
